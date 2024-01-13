@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Isacdevel
-- 👀 I’m interested in  aprender Phyton
-- 🌱 I’m  academico de biologia na UFABC
-- 💞️ I’m looking to collabora COM ALGORITIMOS E LÓGICA
+- 👀 I’m interested in  aprender Phyton, Html, Css e C+
+- 🌱 I’m  academico de Lcne na UFABC
 - 📫 zacwoody@outlook.com
 
 <!---
